@@ -16,3 +16,4 @@
 
 - Lec07- Exercise 1 clarifications, Example of Block diagram, Redis, Async IO.  
 
+- Lec08- Working with VSCode, Multithreading vs. Processes vs. Async IO, Python Class, Encoding binary data.
