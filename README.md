@@ -17,3 +17,11 @@
 - Lec07- Exercise 1 clarifications, Example of Block diagram, Redis, Async IO.  
 
 - Lec08- Working with VSCode, Multithreading vs. Processes vs. Async IO, Python Class, Encoding binary data.
+
+- Lec09- SQL ,DATACLASS , Python, Docker Compose Intro.
+
+- Lec10- Streamlit ,Docker Compose.
+
+- Lec11- Working with Github, Streamlit, CMD VS ENTRYPOINT.
+
+- Lec12- JavaScript, CSS and ReactJS.
