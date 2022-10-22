@@ -1,4 +1,4 @@
-# lecture-notes
+# Lecture-Notes
 
 - Lec01- Introduction to EASS, Introduction to Docker.  
 
