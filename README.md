@@ -1,5 +1,9 @@
 # Lecture-Notes
 
+Videos (Hebrew):
+1. EASS Part A Exercise - WSL Intro : https://www.youtube.com/watch?v=MFJNuEx0bRU&list=PLXznh3cpSlcAOvDGx8dfZer35A99P5-KV&index=1
+2. EASS Part A Exercise - Docker Intro : https://www.youtube.com/watch?v=xWMFlb1yXJY&list=PLXznh3cpSlcAOvDGx8dfZer35A99P5-KV&index=2&t=1834s
+
 - Lec01- Introduction to EASS, Introduction to Docker.  
 
 - Lec02- EASS concepts, Monolithic vs. Microservices, Docker and WSL general commands.  
