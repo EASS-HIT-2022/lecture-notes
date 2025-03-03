@@ -5,7 +5,7 @@
 ### EASS Part A Exercise
 
 1. [WSL Intro](https://www.youtube.com/watch?v=MFJNuEx0bRU&list=PLXznh3cpSlcAOvDGx8dfZer35A99P5-KV&index=1)
-2. [Docker Intro](https://www.youtube.com/watch?v=xWMFlb1yXJY&list=PLXznh3cpSlcAOvDGx8dfZer35A99P5-KV&index=2&t=1834s)
+2. [Docker Intro](https://www.youtube.com/watch?v=xWMFlb1yXJY&list=PLXznh3cpSlcAOvDGx8dfZer35A99P5-KV&index=2)
 
 ## Lecture Summaries
 
